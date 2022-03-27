@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-Tracker-Project/static/css/main.c1ad0ae5.css",
+    "main.js": "/Task-Tracker-Project/static/js/main.c99b287f.js",
+    "index.html": "/Task-Tracker-Project/index.html",
+    "main.c1ad0ae5.css.map": "/Task-Tracker-Project/static/css/main.c1ad0ae5.css.map",
+    "main.c99b287f.js.map": "/Task-Tracker-Project/static/js/main.c99b287f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ad0ae5.css",
+    "static/js/main.c99b287f.js"
+  ]
+}
